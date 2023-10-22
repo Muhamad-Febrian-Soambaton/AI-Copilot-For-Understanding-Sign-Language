@@ -2,8 +2,9 @@
 Menggunakan AI untuk membantu manusia memahami bahasa isyarat.
 
 ## Introduction
-{: style="text-align: justify" }
+<p align="center">
 Bahasa isyarat adalah bahasa yang digunakan untuk manusia yang tidak bisa menggunakan bahasa verbal seperti manusia tuli, bahasa isyarat menggunakan gerak tangan sebagai pertukaran informasi, gerak tangan yang di lakukan memiliki arti huruf alfabet dari a sampai z [1]. Menurut WHO, populasi manusia tuli di dunia sebanyak 1.5 juta jiwa atau sebanyak 20% dari total populasi dunia [2]. Dengan jumlah sebanyak itu manusia yang menggunakan sign language hanya sebanyak 70 juta jiwa [3]. Hal ini dikarenakan kurang banyaknya orang yang mengerti sign language sehingga kebanyakan orang tuli hanya biasa menggunakan pembacaan bibir dan menggunakan tulisan [4]. Kelemahan menggunakan bibir adalah keakurasian dalam membaca bibir seseorang dan kelemahan dari menggunakan tulisan adalah waktu yang diubutuhkan untuk menulis informasi. Oleh karena itu di buat AI untuk memahami sign language dan menrubahnya menjadi tulisan atau suara sehingga manusia tuli dan tidak tuli dapat berkomunikasi tanpa Batasan.
+</p>
 
 ## End Goal
 1.	AI dapat mengetahui arti dari sign language.
