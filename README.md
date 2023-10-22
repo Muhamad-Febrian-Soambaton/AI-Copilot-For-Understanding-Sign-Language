@@ -22,8 +22,11 @@ Banyak manusia yang membutuhkan bahasa isyarat namun bahasa isyarat jarang digun
 
 ## Reference
 [1] https://id.wikipedia.org/wiki/Bahasa_isyarat
+
 [2] https://www.who.int/health-topics/hearing-loss#tab=tab_2 
+
 [3] https://earthweb.com/sign-language-users/ 
+
 [4] https://www.accessibility.com/blog/do-all-deaf-people-use-sign-language#:~:text=Not%20only%20is%20there%20the,that%20provides%20for%20auditory%20cues. 
 
 
