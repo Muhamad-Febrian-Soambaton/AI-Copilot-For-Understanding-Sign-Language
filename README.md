@@ -15,6 +15,7 @@ Bahasa isyarat adalah bahasa yang digunakan untuk manusia yang tidak bisa menggu
 ## Metodologies
 Metode yang di gunakan untuk membuat sistem AI ini adalah ditunjukkan oleh gambar di bawah.
 ![image](https://github.com/Muhamad-Febrian-Soambaton/AI-Copilot-For-Understanding-Sign-Language/blob/main/Screenshot%202023-10-22%20101921.png)
+
 CNN di gunakan untuk object detection dari sign language, di gunakan CNN adalah karena CNN dirancang untuk mendeteksi tepi sudut tergantung dari filter yang di gunakan dan fitur yang ingin di ekstrak. Hal itu sangat di butuhkan pada sign language karena sing language adalah pola dari tangan. CNN akan di latih menggunakan back propagation untuk mengupdate bobot dari jaringan sayarf tiruan. Setelah sign language di kenali dan berubah menjadi tulisan di lakukan LSTM untuk merubah tulisan menjadi suara atau text to speech. Outputnya adalah dapat berupa tulisan dan suara. 
 
 ## Conclusion
